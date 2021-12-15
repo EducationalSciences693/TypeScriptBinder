@@ -8,6 +8,7 @@
 .local
 .gitconfig
 .ipython
+.npm
 __pycache__
 .python_history
 Manifest.toml
