@@ -1,4 +1,7 @@
 {
+  "name": "example-package",
+  "version": "0.0.1",
+  "description": "An Example!",
   "dependencies": {
     "tslab": "~1.0.15"
   }
