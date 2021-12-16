@@ -34,7 +34,7 @@ When prompted to enter your password, enter your personal access token instead.
 
 # Model Card
 
-Last updated: 2021-12-16 03:17:25 PM UTC
+Last updated: 2021-12-16 03:44:49 PM UTC
 
 Inspired by [Model Cards for Model Reporting (Mitchell et al.)](https://arxiv.org/abs/1810.03993).
 
