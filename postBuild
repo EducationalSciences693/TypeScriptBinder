@@ -6,4 +6,5 @@ git config --global user.email "jovyan@mybinder"
 
 # Install packages and enable TypeScript
 npm install
-npx tslab install
+npm link tslab
+tslab install
