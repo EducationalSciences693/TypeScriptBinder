@@ -3,10 +3,15 @@
   "version": "0.0.1",
   "description": "An Example!",
   "dependencies": {
-    "tslab": "~1.0.15"
+    "data-forge": "~1.9.2",
+    "tslab": "~1.0.15",
+    "vectorious": "~6.1.1"
   },
   "engines": {
-    "node": "14.17.4",
-    "npm": "6.14.14"
+    "node": "~14.17.4",
+    "npm": "~6.14.14"
+  },
+  "devDependencies": {
+    "@types/node": "~17.0.0"
   }
 }
