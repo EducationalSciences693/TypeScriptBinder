@@ -4,4 +4,5 @@ git config --global user.name "jovyan"
 git config --global user.email "jovyan@mybinder"
 
 # npm install -g tslab@~1.0.15
+npm install
 tslab install
